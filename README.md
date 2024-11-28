@@ -16,6 +16,8 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 3 | Find the Index of the First Occurrence in a String           | Easy       | ✅ Completed  |  
 | Day 3 | Three Sum          | Medium      | ✅ Completed  | 
 | Day 3 | Palindrome Number         | Easy  | ✅ Completed  | 
+| Day 4 | Best Time to Buy and Sell Stock        | Easy  | ✅ Completed  | 
+| Day 4 | Longest Common Prefix       | Easy  | ✅ Completed  | 
 
 ## 🎯 Goals of the Challenge  
 1. Solve 15 problems across varying difficulty levels.  
