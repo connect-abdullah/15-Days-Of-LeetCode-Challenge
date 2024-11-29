@@ -17,7 +17,10 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 3 | Three Sum          | Medium      | ✅ Completed  | 
 | Day 3 | Palindrome Number         | Easy  | ✅ Completed  | 
 | Day 4 | Best Time to Buy and Sell Stock        | Easy  | ✅ Completed  | 
-| Day 4 | Longest Common Prefix       | Easy  | ✅ Completed  | 
+| Day 4 | Longest Common Prefix       | Easy  | ✅ Completed  |
+| Day 5 | Merge Sorted Array        | Easy  | ✅ Completed  | 
+| Day 5 | Valid Anagram       | Easy  | ✅ Completed  | 
+
 
 ## 🎯 Goals of the Challenge  
 1. Solve 15 problems across varying difficulty levels.  
