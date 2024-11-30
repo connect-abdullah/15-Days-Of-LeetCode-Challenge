@@ -20,6 +20,8 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 4 | Longest Common Prefix       | Easy  | ✅ Completed  |
 | Day 5 | Merge Sorted Array        | Easy  | ✅ Completed  | 
 | Day 5 | Valid Anagram       | Easy  | ✅ Completed  | 
+| Day 6 | Move Zeroes       | Easy  | ✅ Completed  | 
+| Day 6 | Length of Last Word      | Easy  | ✅ Completed  | 
 
 
 ## 🎯 Goals of the Challenge  
