@@ -22,6 +22,9 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 5 | Valid Anagram       | Easy  | ✅ Completed  | 
 | Day 6 | Move Zeroes       | Easy  | ✅ Completed  | 
 | Day 6 | Length of Last Word      | Easy  | ✅ Completed  | 
+| Day 7 | Find Pivot Index      | Easy  | ✅ Completed  | 
+| Day 7 | Longest Substring Without Repeating Characters      | Medium | ✅ Completed  | 
+
 
 
 ## 🎯 Goals of the Challenge  
