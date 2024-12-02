@@ -23,7 +23,9 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 6 | Move Zeroes       | Easy  | ✅ Completed  | 
 | Day 6 | Length of Last Word      | Easy  | ✅ Completed  | 
 | Day 7 | Find Pivot Index      | Easy  | ✅ Completed  | 
-| Day 7 | Longest Substring Without Repeating Characters      | Medium | ✅ Completed  | 
+| Day 7 | Longest Substring Without Repeating Characters      | Medium | ✅ Completed  |
+| Day 8 | Roman to Integer      | Easy  | ✅ Completed  | 
+| Day 8 | Plus One              | Easy  | ✅ Completed  | 
 
 
 
