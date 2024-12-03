@@ -26,6 +26,8 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 7 | Longest Substring Without Repeating Characters      | Medium | ✅ Completed  |
 | Day 8 | Roman to Integer      | Easy  | ✅ Completed  | 
 | Day 8 | Plus One              | Easy  | ✅ Completed  | 
+| Day 9 | Majority Element      | Easy  | ✅ Completed  | 
+| Day 9 | Reverse Words in a String             | Medium  | ✅ Completed  | 
 
 
 
