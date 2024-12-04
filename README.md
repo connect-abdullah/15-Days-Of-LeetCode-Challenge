@@ -28,6 +28,8 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 8 | Plus One              | Easy  | ✅ Completed  | 
 | Day 9 | Majority Element      | Easy  | ✅ Completed  | 
 | Day 9 | Reverse Words in a String             | Medium  | ✅ Completed  | 
+| Day 10 | Find the Difference             | Easy  | ✅ Completed  | 
+| Day 10 | Rotate Array             | Medium  | ✅ Completed  | 
 
 
 
