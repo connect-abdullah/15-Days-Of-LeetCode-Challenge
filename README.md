@@ -30,6 +30,8 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 9 | Reverse Words in a String             | Medium  | ✅ Completed  | 
 | Day 10 | Find the Difference             | Easy  | ✅ Completed  | 
 | Day 10 | Rotate Array             | Medium  | ✅ Completed  | 
+| Day 11 | Remove Element             | Easy  | ✅ Completed  | 
+| Day 11 | Maximum Subarray             | Medium  | ✅ Completed  | 
 
 
 
