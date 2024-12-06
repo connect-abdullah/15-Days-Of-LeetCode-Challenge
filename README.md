@@ -32,6 +32,9 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 10 | Rotate Array             | Medium  | ✅ Completed  | 
 | Day 11 | Remove Element             | Easy  | ✅ Completed  | 
 | Day 11 | Maximum Subarray             | Medium  | ✅ Completed  | 
+| Day 12 | First Unique Character in a String  | Easy  | ✅ Completed  | 
+| Day 12 | House Robber II             | Medium  | ✅ Completed  | 
+
 
 
 
