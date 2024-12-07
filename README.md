@@ -14,8 +14,7 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 2 | Reverse String II            | Easy       | ✅ Completed  |  
 | Day 2 | Merge Strings Alternately          | Easy       | ✅ Completed  |  
 | Day 3 | Find the Index of the First Occurrence in a String           | Easy       | ✅ Completed  |  
-| Day 3 | Three Sum          | Medium      | ✅ Completed  | 
-| Day 3 | Palindrome Number         | Easy  | ✅ Completed  | 
+| Day 3 | Three Sum          | Medium      | ✅ Completed  |  
 | Day 4 | Best Time to Buy and Sell Stock        | Easy  | ✅ Completed  | 
 | Day 4 | Longest Common Prefix       | Easy  | ✅ Completed  |
 | Day 5 | Merge Sorted Array        | Easy  | ✅ Completed  | 
@@ -34,6 +33,8 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 11 | Maximum Subarray             | Medium  | ✅ Completed  | 
 | Day 12 | First Unique Character in a String  | Easy  | ✅ Completed  | 
 | Day 12 | House Robber II             | Medium  | ✅ Completed  | 
+| Day 13 | Palindrome Number         | Easy  | ✅ Completed  |
+| Day 13 | Sort Colors     | Medium  | ✅ Completed  | 
 
 
 
