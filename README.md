@@ -35,8 +35,10 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 12 | House Robber II             | Medium  | ✅ Completed  | 
 | Day 13 | Palindrome Number         | Easy  | ✅ Completed  |
 | Day 13 | Sort Colors     | Medium  | ✅ Completed  | 
-| Day 13 | Squares of a Sorted Array     | Easy  | ✅ Completed  | 
-| Day 13 | Maximum Product Subarray      | Medium  | ✅ Completed  | 
+| Day 14 | Squares of a Sorted Array     | Easy  | ✅ Completed  | 
+| Day 14 | Maximum Product Subarray      | Medium  | ✅ Completed  | 
+| Day 15 | Contains Duplicate     | Easy  | ✅ Completed  | 
+| Day 15 | String Compression      | Medium  | ✅ Completed  | 
 
 
 
