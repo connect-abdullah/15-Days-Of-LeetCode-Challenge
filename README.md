@@ -45,7 +45,7 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 
 ## 🎯 Goals of the Challenge  
 1. Solve 15 problems across varying difficulty levels.  
-2. Improve problem-solving speed
+2. Improve problem-solving speed.
 3. Test my abilities that where i stand in programming skills.
 
 ------------------------------------------
