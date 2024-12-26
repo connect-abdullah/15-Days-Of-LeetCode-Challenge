@@ -43,6 +43,8 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 17 | 4 Sum   | Medium  | ✅ Completed  | 
 | Day 18 | Longest Palindromic Substring   | Medium  | ✅ Completed  | 
 | Day 19 | 2 Sum   | Easy  | ✅ Completed  | 
+| Day 20 | Reverse Integer   | Medium  | ✅ Completed  | 
+
 
 
 
