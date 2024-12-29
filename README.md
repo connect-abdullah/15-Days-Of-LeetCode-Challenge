@@ -44,6 +44,7 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 18 | Longest Palindromic Substring   | Medium  | ✅ Completed  | 
 | Day 19 | 2 Sum   | Easy  | ✅ Completed  | 
 | Day 20 | Reverse Integer   | Medium  | ✅ Completed  | 
+| Day 21 | Valid Parentheses   | Easy  | ✅ Completed  | 
 
 
 
