@@ -47,6 +47,7 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 21 | Valid Parentheses   | Easy  | ✅ Completed  | 
 | Day 22 | 3 Sum Closest   | Medium | ✅ Completed  |
 | Day 23 | Merge Two Sorted Lists   | Easy | ✅ Completed  |
+| Day 24 | Jump Game II   | Medium | ✅ Completed  |
 
 
 
