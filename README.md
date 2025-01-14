@@ -5,7 +5,7 @@ Welcome to the **15 Days of LeetCode Challenge** repository! 🎯 This is my jou
 ## 📚 About the Challenge  
 This challenge is aimed at tackling popular problems from LeetCode across various topics. Each day, I solve a new problem, document the approach, and optimize the solution to improve my understanding of algorithms and data structures.
 
-## 🌱 Progress Tracker  
+## 🌱 Progress Tracker 🌱
 | Day   | Problem Name                | Difficulty | Status        |  
 |-------|-----------------------------|------------|---------------|  
 | Day 1 | Valid Palindrome            | Easy       | ✅ Completed   |  
