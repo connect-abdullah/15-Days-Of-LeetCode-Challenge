@@ -50,6 +50,7 @@ This challenge is aimed at tackling popular problems from LeetCode across variou
 | Day 24 | Jump Game II   | Medium | ✅ Completed  |
 | Day 25 | Search Index Position   | Easy | ✅ Completed  |
 | Day 26 | Remove Duplicates from Sorted List  | Easy | ✅ Completed  |
+| Day 27 | Pascal's Triangle  | Easy | ✅ Completed  |
 
 
 
