@@ -3,20 +3,12 @@
  * @param {number} target
  * @return {number[]}
  */
-const twoSum = (nums, target) => {
-    const map = new Map(); // To store the value and its index
-
-    for (let i = 0; i < nums.length; i++) {
-        const complement = target - nums[i];
-        
-        // Check if the complement exists in the map
-        if (map.has(complement)) {
-            return [map.get(complement), i];
+var twoSum = function(nums, target) {
+    for(i=0; i< nums.length; i++) {
+        for (j=i+1; j < nums.length; j++) {
+            if(nums[i] + nums[j] === target) {
+                return [i,j]
+            }
         }
-        
-        // Store the current number with its index in the map
-        map.set(nums[i], i);
     }
-
-    return []; // Default return (should not reach here based on the constraints)
 };
